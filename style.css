@@ -66,11 +66,7 @@ button:hover {
 
 /* Media query for small devices like smartphones */
 @media (max-width: 768px) {
-       *
-{
-    margin: 0;
-    padding: 0;
-}
+
     body {
         font-size: 12px;
         /* Adjust font size for small screens */
@@ -87,13 +83,13 @@ button:hover {
         width: 90%;
        padding: 0 !important;
     }
-    h2{margin: 20px;}
+ 
     .text {
         text-align: center;
         padding: 0px !important;
        line-height: 1.5;
     }
-    button{margin-top: 20px;}
+   
 }
 
 /* Media query for tablets and medium-sized devices */
