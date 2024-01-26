@@ -86,7 +86,7 @@ button:hover {
     .main-text {
         text-align: center;
         padding: 0px !important;
-       
+        line-height: 1.4;
     }
 }
 
