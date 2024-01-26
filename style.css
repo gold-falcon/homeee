@@ -72,6 +72,7 @@ button:hover {
     }
 
     .container {
+        margin-top:5px;
         flex-direction: column;
         height: 30vh;
         
