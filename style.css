@@ -13,7 +13,7 @@ body {
     background: linear-gradient(to left, #0E0ECC, #992B9C);
 }
 
-main {
+header {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -71,7 +71,7 @@ button:hover {
         /* Adjust font size for small screens */
     }
 
-    main {
+    header {
         flex-direction: column;
         height: 30vh;
         
